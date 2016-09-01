@@ -1,0 +1,49 @@
+body {
+	background-color: #99ffcc;
+	max-width: 575px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 25px;
+}
+
+h1 {
+	color: #;
+	text-align: center;
+	font-family:'Suez One', serif;
+	font-size: 45px; 
+	border-left: 15px solid #cc99ff;
+	border-right: 15px solid #cc99ff;
+	background-color: #ccffe6;
+}
+h2 {
+	color: #;
+	text-align: center;
+	font-family:'Suez One', serif;
+	font-size: 28px; 
+	border-left: 10px solid #ff8080;
+	border-right: 10px solid #ff8080;
+	background-color: #ccffe6;
+}
+p {
+	color: #004d4d;
+	font-family: 'Dosis', sans-serif;	
+	font-size: 18px;
+	text-align: left;
+}
+img {
+	max-width: 100%;
+}
+a:link {
+	color: #b366ff;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #00cc33;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #ff8080;
+	text-decoration: underline;
+}
